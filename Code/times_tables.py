@@ -1,5 +1,5 @@
 def tables(number):
-    for i in range(1,101):
+    for i in range(1,11):
         print(i * number, end=", ") 
 
-tables(9)
+tables(4)
