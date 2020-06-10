@@ -6,5 +6,5 @@ def alpha(word_list):
         string1 += i + ","
     return string1
 
-word_list = "this,About,could,ZOO"
+word_list = "this,About,could,Zoo,jUMP"
 print(alpha(word_list))
